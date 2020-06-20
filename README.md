@@ -1,2 +1,2 @@
 # github-kata
-Kata training repository
+ A simple Kata training repository
